@@ -27,7 +27,7 @@ public class Quiz {
     private boolean passed;
 
     public Quiz(Club club, Student student) {
-        bundle = Messenger.getConfig().getLang().getBundle("Quiz");
+        bundle = MyFavoriteApp.getConfig().getLang().getBundle("Quiz");
         this.club = club;
         this.student = student;
         this.questionAnswer = loadQuestionAnswers();

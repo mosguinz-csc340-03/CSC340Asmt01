@@ -61,7 +61,7 @@ public class Person implements Greeting {
 
     @Override
     public void sayHello(String name) {
-        System.out.println(Messenger.getCommonIdx(3)  + " " + name
-                + Messenger.getCommonIdx(0));
+        System.out.println(MyFavoriteApp.getCommonIdx(3)  + " " + name
+                + MyFavoriteApp.getCommonIdx(0));
     }
 }

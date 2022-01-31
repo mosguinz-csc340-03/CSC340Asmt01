@@ -99,7 +99,7 @@ public class Timer {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getNowTime(String s) {

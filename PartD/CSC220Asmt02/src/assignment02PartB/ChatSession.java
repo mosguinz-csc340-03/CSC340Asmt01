@@ -38,7 +38,7 @@ public final class ChatSession {
     public ChatSession(Club club, University university) {
         this.club = club;
         this.university = university;
-        this.bundle = Messenger.getConfig().getLang().getBundle("ChatSession");
+        this.bundle = MyFavoriteApp.getConfig().getLang().getBundle("ChatSession");
     }
 
     public static String getLineSep() {
@@ -102,7 +102,7 @@ public final class ChatSession {
      * @param msg The message to add after the timestamp.
      */
     public static String generateTimestamp(String msg) {
-        return String.format("%s - %s", Messenger.getConfig().getTimer().getChatTimestamp(), msg);
+        return String.format("%s - %s", MyFavoriteApp.getConfig().getTimer().getChatTimestamp(), msg);
     }
 
     /**

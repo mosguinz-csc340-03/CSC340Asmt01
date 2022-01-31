@@ -90,7 +90,7 @@ public class StdOutStdErrTee extends OutputStream {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public static void stopLog() {

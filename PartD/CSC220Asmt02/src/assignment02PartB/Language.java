@@ -119,7 +119,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getGreetingIdx(int i) {
@@ -128,7 +128,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getFrontOfficeIdx(int i) {
@@ -137,7 +137,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getCardIdx(int i) {
@@ -146,7 +146,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getChatSessionIdx(int i) {
@@ -155,7 +155,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getClubIdx(int i) {
@@ -164,7 +164,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getColorIdx(int i) {
@@ -173,7 +173,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getCommonIdx(int i) {
@@ -182,7 +182,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getDecorIdx(int i) {
@@ -191,7 +191,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getConfigIdx(int i) {
@@ -200,7 +200,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getGeneralManagerIdx(int i) {
@@ -209,7 +209,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getManagerIdx(int i) {
@@ -218,7 +218,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getMessengerIdx(int i) {
@@ -227,7 +227,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getPersonIdx(int i) {
@@ -236,7 +236,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getPlayerIdx(int i) {
@@ -245,7 +245,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getPresidentIdx(int i) {
@@ -254,7 +254,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getQuestionAnswerIdx(int i) {
@@ -263,7 +263,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getQuizIdx(int i) {
@@ -272,7 +272,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getReceiptIdx(int i) {
@@ -281,7 +281,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getSfGiantsCardGeneratorIdx(int i) {
@@ -290,7 +290,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getStdOutStdErrIdx(int i) {
@@ -299,7 +299,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getStudentIdx(int i) {
@@ -308,7 +308,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getTimerIdx(int i) {
@@ -317,7 +317,7 @@ public class Language {
 
     /**
      * @deprecated Unused convenience method. Defined to allow compilation without editing {@link
-     *         Messenger}.
+     *         MyFavoriteApp}.
      */
     @Deprecated
     public String getUniversityIdx(int i) {

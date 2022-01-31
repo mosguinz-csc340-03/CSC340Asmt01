@@ -30,7 +30,7 @@ public class Card {
     private String[][] cardParams;
 
     public Card(Player player, Student student, Scanner scan) {
-        bundle = Messenger.getConfig().getLang().getBundle("Card");
+        bundle = MyFavoriteApp.getConfig().getLang().getBundle("Card");
         this.player = player;
         this.student = student;
         this.scan = scan;

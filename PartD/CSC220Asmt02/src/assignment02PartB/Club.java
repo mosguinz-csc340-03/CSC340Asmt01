@@ -87,7 +87,7 @@ public class Club {
      * Display information about the club.
      */
     public void displayInfo() {
-        final ResourceBundle bundle = Messenger.getConfig().getLang().getBundle("Club");
+        final ResourceBundle bundle = MyFavoriteApp.getConfig().getLang().getBundle("Club");
         String[] fields = {
                 bundle.getString("officialName.label"),
                 bundle.getString("shortName.label"),

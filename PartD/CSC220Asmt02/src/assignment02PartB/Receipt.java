@@ -19,9 +19,9 @@ import java.util.ResourceBundle;
 
 public class Receipt {
 
-    private static final ResourceBundle bundle = Messenger.getConfig().getLang()
+    private static final ResourceBundle bundle = MyFavoriteApp.getConfig().getLang()
             .getBundle("Receipt");
-    private static final String pathFormat = Messenger.getConfig().getReceiptFilePath();
+    private static final String pathFormat = MyFavoriteApp.getConfig().getReceiptFilePath();
 
     private final String startTimestamp;
     private final Student student;

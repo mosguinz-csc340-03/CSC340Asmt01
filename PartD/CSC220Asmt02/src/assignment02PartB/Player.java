@@ -41,7 +41,7 @@ public class Player extends Person {
     }
 
     public void displayInfo() {
-        final ResourceBundle bundle = Messenger.getConfig().getLang().getBundle("Player");
+        final ResourceBundle bundle = MyFavoriteApp.getConfig().getLang().getBundle("Player");
         String[] fields = {
                 bundle.getString("player.label"),
                 bundle.getString("club.label"),
